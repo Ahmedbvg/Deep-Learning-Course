@@ -1,4 +1,4 @@
-# Deep Learning Course Tasks 🧠🔥
+# Deep Learning Course Tasks 
 
 This repository contains all tasks and assignments completed during my
 Deep Learning course.
